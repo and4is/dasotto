@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dasotto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+482a784a03d28613a1840593a67d1b8131f4176f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07437d79f2a416f08a18d0896f2b7790d077bcb7")]
 [assembly: System.Reflection.AssemblyProductAttribute("dasotto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dasotto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
