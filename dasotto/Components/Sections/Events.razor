@@ -1,0 +1,146 @@
+﻿<div class="card-group-container">
+    <div class="card-group">
+        @foreach (var card in Cards)
+        {
+            <div class="card-item">
+                <div class="card">
+                    <div class="img-container">
+                        <img class="card-img" src="@card.ImageUrl" alt="Card image">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">@card.Title</h5>
+                        <p class="card-text">@card.Description</p>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+<style>
+    /* Container für horizontales Scrollen */
+    .card-group-container {
+        overflow-x: auto; /* Ermöglicht horizontales Scrollen */
+        overflow-y: hidden; /* Verhindert vertikales Scrollen */
+        white-space: nowrap;
+        display: flex;
+        width: 100%;
+        justify-content: center;
+    }
+
+    /* Flexbox-Anordnung der Cards */
+    .card-group {
+        display: flex;
+        flex-wrap: nowrap; /* Immer horizontal, kein Zeilenumbruch */
+        gap: 15px;
+        margin: 0;
+        padding: 0;
+        width: 100%;
+    }
+
+    /* Einzelne Cards, dynamische Breite */
+    .card-item {
+        flex: 1 0 auto; /* Cards sollen sich mit ihrer Größe anpassen */
+        min-width: 250px;
+        max-width: 400px;
+        width: 20%; /* Karten nehmen immer die volle Breite des Containers */
+        scroll-snap-align: center;
+    }
+
+    /* Card Design */
+    .card {
+        background-color: #000;
+        border-radius: 20px;
+        border: 1px solid #C16C33;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        text-align: center;
+        padding: 15px;
+        box-sizing: border-box; /* Padding und Border werden in die Breite/Höhe der Karte eingerechnet */
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .card-img {
+        width: 100%; /* Bild passt sich der Container-Breite an */
+        height: auto; /* Höhe proportional zur Breite */
+        background-color: #000;
+        border-radius: 5px;
+    }
+
+    .img-container {
+        margin: 0 auto; /* Zentriert das Bild innerhalb des Containers */
+    }
+
+    .card-body {
+        padding: 10px;
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Zentriert den Text */
+        box-sizing: border-box;
+        width: 100%; /* Passt sich der Breite der Karte an */
+    }
+
+    .card-title {
+        color: antiquewhite;
+        font-size: 1.2em;
+    }
+
+    .card-text {
+        font-size: 0.9em;
+        color: #6c757d;
+        text-align: center;
+    }
+
+    .card-title,
+    .card-text {
+        margin: 5px 0;
+        max-width: 100%; /* Verhindert, dass der Text über die Kartenbreite hinausgeht */
+    }
+
+
+    /* Responsive Verhalten für unterschiedliche Bildschirmgrößen */
+    @@media (max-width: 1200px) {
+        .card-item {
+            min-width: 200px; /* Passen sich für kleinere Bildschirme an */
+        }
+    }
+
+    @@media (max-width: 768px) {
+        .card-item {
+            min-width: 150px;
+        }
+    }
+
+    /* Media Query für Bildschirme mit einer Breite von maximal 480px */
+    @@media (max-width: 480px) {
+        .card-title {
+            font-size: 1em; /* Kleinere Schriftgröße für Titel */
+        }
+
+        .card-text {
+            font-size: 0.8em; /* Kleinere Schriftgröße für Beschreibung */
+        }
+    }
+</style>
+
+@code {
+    // Beispiel-Daten für die Cards
+    public List<CardModel> Cards = new List<CardModel>
+    {
+        new CardModel { Title = $"{DateTime.Now.ToString("dd.MM.yyy")}", Description = "HipHop/Dance", ImageUrl = "/images/Attitude.jpg" },
+        new CardModel { Title = $"{DateTime.Now.ToString("dd.MM.yyy")}", Description = "HipHop/Dance", ImageUrl = "/images/Attitude.jpg" },
+        new CardModel { Title = $"{DateTime.Now.ToString("dd.MM.yyy")}", Description = "HipHop/Dance", ImageUrl = "/images/Attitude.jpg" },
+        new CardModel { Title = $"{DateTime.Now.ToString("dd.MM.yyy")}", Description = "HipHop/Dance", ImageUrl = "/images/HeatWave.jpg" },
+        new CardModel { Title = $"{DateTime.Now.ToString("dd.MM.yyy")}", Description = "HipHop/Dance", ImageUrl = "/images/HeatWave.jpg" },
+        new CardModel { Title = $"{DateTime.Now.ToString("dd.MM.yyy")}", Description = "HipHop/Dance", ImageUrl = "/images/HeatWave.jpg" },
+        // Füge weitere Cards hinzu
+    };
+
+    public class CardModel
+    {
+        public string Title { get; set; }
+        public string Description { get; set; }
+        public string ImageUrl { get; set; }
+    }
+}

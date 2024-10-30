@@ -1,0 +1,28 @@
+﻿@page "/backgroundvideo"
+
+<div class="video-wrapper">
+    <video autoplay="" muted="" loop="" playsinline="" class="background-video">
+        <source src="/videos/club.mp4" type="video/mp4" />
+        Dein Browser unterstützt keine HTML5-Videos.
+    </video>
+</div>
+
+<style>
+    .video-wrapper {
+        position: relative;
+        width: 100%; /* Vollbreite des Containers */
+        padding-top: 56.25%; /* 16:9 Aspect Ratio */
+        overflow: hidden;
+    }
+
+    .background-video {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover; /* Video füllt den gesamten Container */
+    }
+
+    /* Media Query für kleinere Bildschirme */
+</style>
