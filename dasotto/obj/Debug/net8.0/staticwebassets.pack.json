@@ -1,55 +1,55 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\dasotto.bundle.scp.css",
+      "Id": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\dasotto.bundle.scp.css",
       "PackagePath": "staticwebassets\\dasotto.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\wwwroot\\CSS\\MainLayout.css",
+      "Id": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\CSS\\MainLayout.css",
       "PackagePath": "staticwebassets\\CSS\\MainLayout.css"
     },
     {
-      "Id": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\wwwroot\\app.css",
+      "Id": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\wwwroot\\images\\Attitude.jpg",
+      "Id": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\images\\Attitude.jpg",
       "PackagePath": "staticwebassets\\images\\Attitude.jpg"
     },
     {
-      "Id": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\wwwroot\\images\\DasOttoLogo.png",
+      "Id": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\images\\DasOttoLogo.png",
       "PackagePath": "staticwebassets\\images\\DasOttoLogo.png"
     },
     {
-      "Id": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\wwwroot\\images\\HeatWave.jpg",
+      "Id": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\images\\HeatWave.jpg",
       "PackagePath": "staticwebassets\\images\\HeatWave.jpg"
     },
     {
-      "Id": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\wwwroot\\images\\SomeImg1.jpg",
+      "Id": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\images\\SomeImg1.jpg",
       "PackagePath": "staticwebassets\\images\\SomeImg1.jpg"
     },
     {
-      "Id": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\wwwroot\\images\\SomeImg2.jpg",
+      "Id": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\images\\SomeImg2.jpg",
       "PackagePath": "staticwebassets\\images\\SomeImg2.jpg"
     },
     {
-      "Id": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\wwwroot\\images\\SomeImg3.jpg",
+      "Id": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\images\\SomeImg3.jpg",
       "PackagePath": "staticwebassets\\images\\SomeImg3.jpg"
     },
     {
-      "Id": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\wwwroot\\videos\\club.mp4",
+      "Id": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\videos\\club.mp4",
       "PackagePath": "staticwebassets\\videos\\club.mp4"
     },
     {

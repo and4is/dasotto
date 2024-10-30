@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uGGdUtJdB8Chgw27dkj1V1ZwixEGj4yuupijpolYHLc=",
+  "Hash": "CjpPCDshznMrNw6LoeUlLMX1iiYwBOQY5bd6dFSGW/4=",
   "Source": "dasotto",
   "BasePath": "_content/dasotto",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "dasotto\\wwwroot",
       "Source": "dasotto",
-      "ContentRoot": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\",
       "BasePath": "_content/dasotto",
       "Pattern": "**"
     }
@@ -2620,10 +2620,10 @@
       "OriginalItemSpec": "C:\\Users\\andri\\.nuget\\packages\\microsoft.fluentui.aspnetcore.components\\4.10.2\\staticwebassets\\Microsoft.FluentUI.AspNetCore.Components.lib.module.js.map"
     },
     {
-      "Identity": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\obj\\Debug\\net8.0\\jsmodules\\jsmodules.build.manifest.json",
+      "Identity": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\obj\\Debug\\net8.0\\jsmodules\\jsmodules.build.manifest.json",
       "SourceId": "dasotto",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\obj\\Debug\\net8.0\\jsmodules\\",
+      "ContentRoot": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\obj\\Debug\\net8.0\\jsmodules\\",
       "BasePath": "_content/dasotto",
       "RelativePath": "dasotto.modules.json",
       "AssetKind": "Build",
@@ -2639,10 +2639,10 @@
       "OriginalItemSpec": "obj\\Debug\\net8.0\\jsmodules\\jsmodules.build.manifest.json"
     },
     {
-      "Identity": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\obj\\Debug\\net8.0\\scopedcss\\bundle\\dasotto.styles.css",
+      "Identity": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\obj\\Debug\\net8.0\\scopedcss\\bundle\\dasotto.styles.css",
       "SourceId": "dasotto",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/dasotto",
       "RelativePath": "dasotto.styles.css",
       "AssetKind": "All",
@@ -2655,13 +2655,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\obj\\Debug\\net8.0\\scopedcss\\bundle\\dasotto.styles.css"
+      "OriginalItemSpec": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\obj\\Debug\\net8.0\\scopedcss\\bundle\\dasotto.styles.css"
     },
     {
-      "Identity": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\dasotto.bundle.scp.css",
+      "Identity": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\dasotto.bundle.scp.css",
       "SourceId": "dasotto",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/dasotto",
       "RelativePath": "dasotto.bundle.scp.css",
       "AssetKind": "All",
@@ -2674,13 +2674,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\dasotto.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\dasotto.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\app.css",
       "SourceId": "dasotto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\",
       "BasePath": "_content/dasotto",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -2696,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "dasotto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\",
       "BasePath": "_content/dasotto",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -2715,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "dasotto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\",
       "BasePath": "_content/dasotto",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2734,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\wwwroot\\CSS\\MainLayout.css",
+      "Identity": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\CSS\\MainLayout.css",
       "SourceId": "dasotto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\",
       "BasePath": "_content/dasotto",
       "RelativePath": "CSS/MainLayout.css",
       "AssetKind": "All",
@@ -2753,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\CSS\\MainLayout.css"
     },
     {
-      "Identity": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\favicon.png",
       "SourceId": "dasotto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\",
       "BasePath": "_content/dasotto",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -2772,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\wwwroot\\images\\Attitude.jpg",
+      "Identity": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\images\\Attitude.jpg",
       "SourceId": "dasotto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\",
       "BasePath": "_content/dasotto",
       "RelativePath": "images/Attitude.jpg",
       "AssetKind": "All",
@@ -2791,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Attitude.jpg"
     },
     {
-      "Identity": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\wwwroot\\images\\DasOttoLogo.png",
+      "Identity": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\images\\DasOttoLogo.png",
       "SourceId": "dasotto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\",
       "BasePath": "_content/dasotto",
       "RelativePath": "images/DasOttoLogo.png",
       "AssetKind": "All",
@@ -2810,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\images\\DasOttoLogo.png"
     },
     {
-      "Identity": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\wwwroot\\images\\HeatWave.jpg",
+      "Identity": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\images\\HeatWave.jpg",
       "SourceId": "dasotto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\",
       "BasePath": "_content/dasotto",
       "RelativePath": "images/HeatWave.jpg",
       "AssetKind": "All",
@@ -2829,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\images\\HeatWave.jpg"
     },
     {
-      "Identity": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\wwwroot\\images\\SomeImg1.jpg",
+      "Identity": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\images\\SomeImg1.jpg",
       "SourceId": "dasotto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\",
       "BasePath": "_content/dasotto",
       "RelativePath": "images/SomeImg1.jpg",
       "AssetKind": "All",
@@ -2848,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SomeImg1.jpg"
     },
     {
-      "Identity": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\wwwroot\\images\\SomeImg2.jpg",
+      "Identity": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\images\\SomeImg2.jpg",
       "SourceId": "dasotto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\",
       "BasePath": "_content/dasotto",
       "RelativePath": "images/SomeImg2.jpg",
       "AssetKind": "All",
@@ -2867,10 +2867,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SomeImg2.jpg"
     },
     {
-      "Identity": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\wwwroot\\images\\SomeImg3.jpg",
+      "Identity": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\images\\SomeImg3.jpg",
       "SourceId": "dasotto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\",
       "BasePath": "_content/dasotto",
       "RelativePath": "images/SomeImg3.jpg",
       "AssetKind": "All",
@@ -2886,10 +2886,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SomeImg3.jpg"
     },
     {
-      "Identity": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\wwwroot\\videos\\club.mp4",
+      "Identity": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\videos\\club.mp4",
       "SourceId": "dasotto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\",
       "BasePath": "_content/dasotto",
       "RelativePath": "videos/club.mp4",
       "AssetKind": "All",
