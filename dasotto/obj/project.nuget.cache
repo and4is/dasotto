@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CjK9w96THZ8=",
+  "dgSpecHash": "d7rLJ21aCEM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\dasotto.csproj",
+  "projectFilePath": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\dasotto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andri\\.nuget\\packages\\bootstrapblazor\\8.10.3\\bootstrapblazor.8.10.3.nupkg.sha512",
     "C:\\Users\\andri\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.10\\microsoft.aspnetcore.authorization.8.0.10.nupkg.sha512",

@@ -1839,11 +1839,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\dasotto.csproj",
+      "projectUniqueName": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\dasotto.csproj",
       "projectName": "dasotto",
-      "projectPath": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\dasotto.csproj",
+      "projectPath": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\dasotto.csproj",
       "packagesPath": "C:\\Users\\andri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andri\\source\\repos\\dasotto\\dasotto\\obj\\",
+      "outputPath": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
