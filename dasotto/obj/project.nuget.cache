@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "d7rLJ21aCEM=",
+  "dgSpecHash": "fB5MgydMOpQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\dasotto.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\andri\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\andri\\.nuget\\packages\\bootstrapblazor\\8.10.3\\bootstrapblazor.8.10.3.nupkg.sha512",
     "C:\\Users\\andri\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.10\\microsoft.aspnetcore.authorization.8.0.10.nupkg.sha512",
     "C:\\Users\\andri\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.10\\microsoft.aspnetcore.components.8.0.10.nupkg.sha512",

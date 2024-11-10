@@ -55,8 +55,6 @@ C:\Users\andri\source\repos\dasotto\dasotto\obj\Debug\net8.0\dasotto.csproj.Up2D
 C:\Users\andri\source\repos\dasotto\dasotto\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
 C:\Users\andri\source\repos\dasotto\dasotto\bin\Debug\net8.0\Microsoft.FluentUI.AspNetCore.Components.dll
 C:\Users\andri\source\repos\dasotto\dasotto\obj\Debug\net8.0\jsmodules\jsmodules.build.manifest.json
-C:\Users\andri\Desktop\Debug\net8.0\appsettings.Development.json
-C:\Users\andri\Desktop\Debug\net8.0\appsettings.json
 C:\Users\andri\Desktop\Debug\net8.0\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\andri\Desktop\Debug\net8.0\bin\Debug\net8.0\appsettings.json
 C:\Users\andri\Desktop\Debug\net8.0\bin\Debug\net8.0\dasotto.deps.json
@@ -75,7 +73,6 @@ C:\Users\andri\Documents\git-repo\dasotto\dasotto\obj\Debug\net8.0\dasotto.Gener
 C:\Users\andri\Documents\git-repo\dasotto\dasotto\obj\Debug\net8.0\dasotto.AssemblyInfoInputs.cache
 C:\Users\andri\Documents\git-repo\dasotto\dasotto\obj\Debug\net8.0\dasotto.AssemblyInfo.cs
 C:\Users\andri\Documents\git-repo\dasotto\dasotto\obj\Debug\net8.0\dasotto.csproj.CoreCompileInputs.cache
-C:\Users\andri\Documents\git-repo\dasotto\dasotto\obj\Debug\net8.0\dasotto.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\andri\Documents\git-repo\dasotto\dasotto\obj\Debug\net8.0\dasotto.sourcelink.json
 C:\Users\andri\Documents\git-repo\dasotto\dasotto\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\andri\Documents\git-repo\dasotto\dasotto\obj\Debug\net8.0\staticwebassets.development.json
@@ -96,3 +93,5 @@ C:\Users\andri\Documents\git-repo\dasotto\dasotto\obj\Debug\net8.0\dasotto.xml
 C:\Users\andri\Documents\git-repo\dasotto\dasotto\obj\Debug\net8.0\dasotto.pdb
 C:\Users\andri\Documents\git-repo\dasotto\dasotto\obj\Debug\net8.0\dasotto.genruntimeconfig.cache
 C:\Users\andri\Documents\git-repo\dasotto\dasotto\obj\Debug\net8.0\ref\dasotto.dll
+C:\Users\andri\Desktop\Debug\net8.0\appsettings.Development.json
+C:\Users\andri\Desktop\Debug\net8.0\appsettings.json

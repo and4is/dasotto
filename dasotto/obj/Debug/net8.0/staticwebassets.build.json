@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CjpPCDshznMrNw6LoeUlLMX1iiYwBOQY5bd6dFSGW/4=",
+  "Hash": "xrboN8i+95+qgpup0LsNd6KQdsf3XUetdQgjDgv0aWU=",
   "Source": "dasotto",
   "BasePath": "_content/dasotto",
   "Mode": "Default",
@@ -2884,6 +2884,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\SomeImg3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\images\\testBild.png",
+      "SourceId": "dasotto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\",
+      "BasePath": "_content/dasotto",
+      "RelativePath": "images/testBild.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\testBild.png"
     },
     {
       "Identity": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\videos\\club.mp4",

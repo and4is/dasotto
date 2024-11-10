@@ -49,6 +49,10 @@
       "PackagePath": "staticwebassets\\images\\SomeImg3.jpg"
     },
     {
+      "Id": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\images\\testBild.png",
+      "PackagePath": "staticwebassets\\images\\testBild.png"
+    },
+    {
       "Id": "C:\\Users\\andri\\Documents\\git-repo\\dasotto\\dasotto\\wwwroot\\videos\\club.mp4",
       "PackagePath": "staticwebassets\\videos\\club.mp4"
     },

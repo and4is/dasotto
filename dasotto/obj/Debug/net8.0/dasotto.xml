@@ -4,5 +4,20 @@
         <name>dasotto</name>
     </assembly>
     <members>
+        <member name="M:dasotto.Utils.PasswordSystem.HashPassword(System.String)">
+            <summary>
+            Hashes a plain-text password using bcrypt.
+            </summary>
+            <param name="password">The plain-text password to hash.</param>
+            <returns>The bcrypt hash of the password.</returns>
+        </member>
+        <member name="M:dasotto.Utils.PasswordSystem.VerifyPassword(System.String,System.String)">
+            <summary>
+            Verifies a plain-text password against a bcrypt hash.
+            </summary>
+            <param name="password">The plain-text password to verify.</param>
+            <param name="hashedPassword">The bcrypt hashed password to compare against.</param>
+            <returns>True if the password is correct; otherwise, false.</returns>
+        </member>
     </members>
 </doc>

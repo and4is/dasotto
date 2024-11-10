@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
@@ -7,9 +7,11 @@
     <BaseOutputPath>C:\Users\andri\Desktop</BaseOutputPath>
     <TypeScriptModuleKind>system</TypeScriptModuleKind>
     <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <OutputType>WinExe</OutputType>
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
     <PackageReference Include="BootstrapBlazor" Version="8.10.3" />
     <PackageReference Include="Microsoft.FluentUI.AspNetCore.Components" Version="4.10.2" />
   </ItemGroup>

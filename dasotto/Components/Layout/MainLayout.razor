@@ -1,20 +1,22 @@
 ﻿@using BootstrapBlazor;
+@using Microsoft.AspNetCore.Components.Authorization
+@using System.Security.Claims
 
 @inherits LayoutComponentBase
 
 <div class="page" style="background-color:#000; max-width: 100%; overflow-x: hidden;">
 
     <main style="max-width: 100%;">
-        <div class="top-row px-4" style="background-color:#000; display: flex; justify-content: space-between; align-items: center; z-index:100;">
+        <div class="top-row px-4" style="background-color:#000; display: flex; justify-content: space-between; align-items: center; z-index:100;position:fixed;width:100%;margin:0; top:0;">
             <div class="imageContainer">
                 <img class="img-fluid" src="/images/DasOttoLogo.png" width="75" height="75" alt="Logo" />
             </div>
 
-            <div class="navigation">
-                <a href="/" style="color: #fff; margin-left: 20px;">Home</a>
-                <a href="/events" style="color: #fff; margin-left: 20px;">Events</a>
-                <a href="/gallery" style="color: #fff; margin-left: 20px;">Gallery</a>
-                <a href="/contact" style="color: #fff; margin-left: 20px;">Kontakt</a>
+            <div class="navbar">
+                <a href="#Home" style="color: #fff; margin-left: 20px;">Home</a>
+                <a href="#Events" style="color: #fff; margin-left: 20px;">Events</a>
+                <a href="#Gallery" style="color: #fff; margin-left: 20px;">Gallery</a>
+                <a href="#Kontakt" style="color: #fff; margin-left: 20px;">Kontakt</a>
             </div>
         </div>
 
